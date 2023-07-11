@@ -1,10 +1,29 @@
-[![MasterHead]()]()
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Jakkrit Faijampa</h1>
 <h3 align="center">A passionate android developer from Thailand</h3>
 
-<img align="right" alt="Coding" width="400" scr="https://lottie.host/?file=49f5c439-377f-46ff-a13e-12cfab2703f6/TjzjoIcJkD.json"/>
+<!--
+<img align="right" alt="Coding" width="400" scr="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9dce7252570863.5914e555c44a6.gif"/>
+![9dce7252570863 5914e555c44a6](https://github.com/Dolity/Dolity/assets/79091852/62bc981f-7ad8-43bf-8093-c33bbacec601)
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@0.3.0/dist/lottie-player.js"></script>
+<h3>Play from remote URL with controls displayed</h3>
+<lottie-player
+  src="https://assets4.lottiefiles.com/datafiles/zc3XRzudyWE36ZBJr7PIkkqq0PFIrIBgp4ojqShI/newAnimation.json"
+  style="width: 400px;"
+  autoplay
+  loop
+  controls
+></lottie-player>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolity&label=Profile%20views&color=0e75b6&style=flat" alt="dolity" /> </p>
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
+</div>
+-->
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
