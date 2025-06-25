@@ -49,6 +49,7 @@ I love working with modern JavaScript frameworks and solving real-world problems
 
 ### State Management
 ![Pinia](https://img.shields.io/badge/Pinia-ffe78c?style=flat&logo=pinia&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Riverpod](https://img.shields.io/badge/Riverpod-4CAF50?style=flat)
 
 ### Object Relational Mapping
@@ -63,13 +64,15 @@ I love working with modern JavaScript frameworks and solving real-world problems
 ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat&logo=firebase&logoColor=white)
 ![D1](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![KV](https://img.shields.io/badge/Cloudflare%20KV-F38020?style=flat&logo=cloudflare&logoColor=white)
+![R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Minikube](https://img.shields.io/badge/Minikube-183A9E?style=flat-square&logo=Kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/static/v1?label=&message=kafka&logo=apache-kafka&color=4f4f4f)
 
 ### Deployment
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-183A9E?style=flat-square&logo=Kubernetes&logoColor=white)
 
 ---
 
