@@ -33,24 +33,25 @@ I love working with modern JavaScript frameworks and solving real-world problems
 ![Vue](https://img.shields.io/badge/Vue-35495e?style=flat&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-4CAF50?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-007FFF?style=flat&logo=flutter&logoColor=white)
 
 ### Backend
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-000000?style=flat&logo=hono&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat&logo=go&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-%23007ACC?style=flat&logo=typescript&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-%23007ACC?style=flat&logo=elysia&logoColor=white)
 
 ### Styling
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=flat)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white)
 ![PrimeVue](https://img.shields.io/badge/PrimeVue-42b883?style=flat&logo=primefaces&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
 ### State Management
 ![Pinia](https://img.shields.io/badge/Pinia-ffe78c?style=flat&logo=pinia&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Riverpod](https://img.shields.io/badge/Riverpod-4CAF50?style=flat)
+![Riverpod](https://img.shields.io/badge/Riverpod-4CAF50?style=flat&logo=riverpod&logoColor=white)
 
 ### Object Relational Mapping
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
