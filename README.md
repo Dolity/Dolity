@@ -78,7 +78,7 @@ I love working with modern JavaScript frameworks and solving real-world problems
 ---
 
 ## 🔥 Featured Projects
-
+- 💰 [Bill Splitter](https://github.com/Dolity/front-hanbo) – Split bills easily with friends, generate PromptPay QR codes, and manage shared expenses effortlessly
 - 🔗 [ShortURL](https://github.com/Dolity/front-link-sharing) – A custom short link service with Cloudflare protection & Safe Browsing API integration  
 - 💱 [Rate Thai](https://github.com/Dolity/flutter-rate-thai) – Currency rate comparison app with web scraping and Firebase integration
 
